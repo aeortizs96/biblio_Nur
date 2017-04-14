@@ -10,3 +10,15 @@ C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Present
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Presentacion\bin\Datos.dll
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Presentacion\bin\Entidades.pdb
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Presentacion\bin\Datos.pdb
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Entidades.dll
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Negocios.dll
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Datos.dll
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\bin\Datos.pdb
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
