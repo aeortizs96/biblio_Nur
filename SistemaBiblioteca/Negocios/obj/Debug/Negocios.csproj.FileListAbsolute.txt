@@ -1,0 +1,9 @@
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\bin\Debug\Negocios.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\bin\Debug\Negocios.pdb
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\bin\Debug\Datos.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\bin\Debug\Entidades.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\bin\Debug\Datos.pdb
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\bin\Debug\Entidades.pdb
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\obj\Debug\Negocios.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Negocios\obj\Debug\Negocios.pdb

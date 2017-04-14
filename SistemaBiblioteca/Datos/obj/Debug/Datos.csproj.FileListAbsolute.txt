@@ -1,0 +1,7 @@
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Datos.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Datos.pdb
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Entidades.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Entidades.pdb
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\obj\Debug\Datos.dll
+C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\obj\Debug\Datos.pdb
