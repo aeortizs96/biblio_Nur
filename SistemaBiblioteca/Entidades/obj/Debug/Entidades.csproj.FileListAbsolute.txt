@@ -3,3 +3,8 @@ C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidad
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidades\obj\Debug\Entidades.dll
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidades\obj\Debug\Entidades.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\bin\Debug\Entidades.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb
