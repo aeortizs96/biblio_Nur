@@ -25,9 +25,9 @@ namespace Datos
         public int abcRegistro(E_Usuario objE_Usuario)
         {
             int Resultado = 0;
-            SqlCommand cmd = new SqlCommand("insRegistro", Conexion);
+            SqlCommand cmd = new SqlCommand("usp-Seguridad-insRegistro", Conexion);
             cmd.CommandType = CommandType.StoredProcedure;
-
+           
             cmd.Parameters.AddWithValue("@correo", objE_Usuario.Correo);
             cmd.Parameters.AddWithValue("@contrasena", objE_Usuario.Contrasena);
             cmd.Parameters.AddWithValue("@nombreCompleto", objE_Usuario.NombreCompleto);

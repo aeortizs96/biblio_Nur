@@ -1,11 +1,11 @@
 USE [BiblioNur]
-GO
-/****** Object:  StoredProcedure [dbo].[insPruebas]    Script Date: 08/30/2016 20:58:32 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-Alter proc [dbo].[insRegistro]
+
+-- =============================================
+-- Author:		<Andrea Ortiz>
+-- Create date: <10/04/2017>
+-- Description:	<Inserta Usuarios>
+-- =============================================
+Create proc [dbo].[usp-Seguridad-insRegistro]
 	@correo varchar(80),
 	@contrasena varchar(100),
 	@nombreCompleto varchar (100),
@@ -16,8 +16,5 @@ begin
    values(@correo,@contrasena,@nombreCompleto,@nombreUsuario)
 end
 
-
-exec insRegistro 'pepito123@gmail.com','pepito','Pepito Perez','482121';
-exec insRegistro 'aamador@gmail.com','ama','Amador Arlindo','512434';
 
 
