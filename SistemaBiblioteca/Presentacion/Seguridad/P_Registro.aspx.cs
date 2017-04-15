@@ -9,6 +9,8 @@ using System.Data;
 
 using Negocios;
 using Entidades;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace Presentacion.Seguridad
 {
@@ -26,7 +28,7 @@ namespace Presentacion.Seguridad
         private void TextBoxAObjeto()
         {
             objEntUsuario.Correo = txt_Correo.Text;
-            objEntUsuario.Contrasena = txt_Contrasena.Text;
+            objEntUsuario.Contrasena = getSha1(txt_Contrasena.Text);
             objEntUsuario.NombreCompleto = txt_NombreCompleto.Text;
             objEntUsuario.NombreUsuario = txt_NombreUsuario.Text;
         }
@@ -52,13 +54,23 @@ namespace Presentacion.Seguridad
 
             else
                 Response.Write("<script>window.alert('AVISO:  La consulta no se inserto correctamente.')</script>");
-
-
-
         }
 
-
+        public string getSha1(string texto)
+        {
+            SHA1CryptoServiceProvider sh = new SHA1CryptoServiceProvider();
+            sh.ComputeHash(ASCIIEncoding.ASCII.GetBytes(texto));
+            byte[] re = sh.Hash;
+            StringBuilder sb = new StringBuilder();
+            foreach (byte b in re)
+            {
+                sb.Append(b.ToString("x2"));
+            }
+            return sb.ToString();
+        }
 
 
     }
 }
+
+

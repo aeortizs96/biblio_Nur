@@ -20,7 +20,7 @@
     <asp:TextBox ID="txt_NombreUsuario" runat="server"></asp:TextBox>
     <br />
     <asp:Label ID="Label2" runat="server" Text="Contraseña :"></asp:Label>
-    <asp:TextBox ID="txt_Contrasena" runat="server"></asp:TextBox>
+    <asp:TextBox ID="txt_Contrasena" runat="server" TextMode="Password"></asp:TextBox>
         <br />
         <br />  
         <asp:Label ID="lbl_mensaje" runat="server" Text="#"></asp:Label>
