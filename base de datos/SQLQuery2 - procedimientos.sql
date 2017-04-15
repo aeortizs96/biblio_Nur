@@ -22,21 +22,12 @@ end
 -- Description:	<Valida el login de usuario>
 -- =============================================
 
-create procedure [dbo].[ups-Seguridad-validarLogin] 
-@nombre varchar(30),@contraseña varchar(20), @usuarioId int output
+create procedure [dbo].[usp-Seguridad-validarLogin] 
+@nombreUsuario varchar(30),@contrasena varchar(20), @usuarioId int output
 as
-select @usuarioId= usuarioId from tbl_Usuario where contrasena= @contraseña and nombreUsuario=@nombre;
+select @usuarioId= usuarioId from tbl_Usuario where contrasena= @contrasena and nombreUsuario=@nombreUsuario;
 return
 
-declare @usuarioId int 
-exec [dbo].[ups-Seguridad-validarLogin] 'dd','dd',@usuarioId output;
-select @usuarioId as Usuario, nombreCompleto from tbl_Usuario where usuarioId=@usuarioId ;
-
--- =============================================
--- Author:		<Marcelo Castaño Reyes>
--- Create date: <15/04/2017>
--- Description:	<Valida el login de usuario>
--- =============================================
-
-
-
+--declare @usuarioId int 
+--exec [dbo].[usp-Seguridad-validarLogin] '482121','pepito',@usuarioId output;
+--select @usuarioId as Usuario, nombreCompleto from tbl_Usuario where usuarioId=@usuarioId ;

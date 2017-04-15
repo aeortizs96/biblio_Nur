@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="D_ConexionBD.cs" />
+    <Compile Include="D_Loggin.cs" />
     <Compile Include="D_Registro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

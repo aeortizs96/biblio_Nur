@@ -22,7 +22,7 @@ namespace Datos
         {
 
         }
-        public int abcRegistro(E_Usuario objE_Usuario)
+        public int abmRegistro(E_Usuario objE_Usuario)
         {
             int Resultado = 0;
             SqlCommand cmd = new SqlCommand("usp-Seguridad-insRegistro", Conexion);

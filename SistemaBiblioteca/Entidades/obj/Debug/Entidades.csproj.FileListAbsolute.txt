@@ -3,13 +3,6 @@ C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidad
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidades\obj\Debug\Entidades.dll
 C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Entidades\obj\Debug\Entidades.pdb
-<<<<<<< HEAD
-C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Entidades\bin\Debug\Entidades.dll
-C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
-C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
-C:\Users\Alejandro\Desktop\7mo Semestre\Ingenieria de software III\biblio_Nur\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb
-=======
 D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\bin\Debug\Entidades.dll
 D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
 D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
@@ -19,4 +12,8 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Dire
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb
->>>>>>> origin/master
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\bin\Debug\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb

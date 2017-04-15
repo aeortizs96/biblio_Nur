@@ -65,13 +65,19 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Seguridad\P_Loggin.aspx" />
     <Content Include="Seguridad\P_Registro.aspx" />
-    <Content Include="Web.config">
-      <SubType>Designer</SubType>
-    </Content>
+    <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seguridad\P_Loggin.aspx.cs">
+      <DependentUpon>P_Loggin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seguridad\P_Loggin.aspx.designer.cs">
+      <DependentUpon>P_Loggin.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Seguridad\P_Registro.aspx.cs">
       <DependentUpon>P_Registro.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
