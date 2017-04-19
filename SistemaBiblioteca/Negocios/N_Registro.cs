@@ -12,9 +12,9 @@ namespace Negocios
     {
         D_Registro objNegocioRegistro = new D_Registro();
 
-        public int abmRegistro(E_Usuario objE_Usuario)
+        public int abcRegistro(E_Usuario objE_Usuario)
         {
-            return objNegocioRegistro.abmRegistro(objE_Usuario);
+            return objNegocioRegistro.abcRegistro(objE_Usuario);
         }
 
 

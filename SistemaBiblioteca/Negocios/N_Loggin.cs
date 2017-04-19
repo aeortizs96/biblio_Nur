@@ -21,3 +21,7 @@ namespace Negocios
 
     }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> a80d6fd267ddea15c345aded1e5b7858eab16b8b

@@ -22,12 +22,12 @@ namespace Datos
         {
 
         }
-        public int abmRegistro(E_Usuario objE_Usuario)
+        public int abcRegistro(E_Usuario objE_Usuario)
         {
             int Resultado = 0;
             SqlCommand cmd = new SqlCommand("usp_Seguridad_insRegistro", Conexion);
             cmd.CommandType = CommandType.StoredProcedure;
-           
+
             cmd.Parameters.AddWithValue("@correo", objE_Usuario.Correo);
             cmd.Parameters.AddWithValue("@contrasena", objE_Usuario.Contrasena);
             cmd.Parameters.AddWithValue("@nombreCompleto", objE_Usuario.NombreCompleto);

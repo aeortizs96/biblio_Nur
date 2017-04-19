@@ -36,15 +36,27 @@ namespace Presentacion.Seguridad
                 nGrabados = objNegLoggin.abmLoggin(objEntUsuario);
                 //VaciaTextBox();
                 lbl_mensaje.Text = "SE INSERTARON CORRECTAMENTE LOS DATOS";
+<<<<<<< HEAD
+=======
+
+>>>>>>> a80d6fd267ddea15c345aded1e5b7858eab16b8b
                 if (nGrabados != -1)
                 {
                     //Response.Write("<script>window.alert('AVISO: La consulta Se inserto correctamente.')</script>");
                     Response.Write("<script>window.alert('AVISO:  La consulta no se inserto correctamente.')</script>");
+<<<<<<< HEAD
                    
                 }
                 else
                 {
                    
+=======
+
+                }
+                else
+                {
+                    Response.Write("<script>window.alert('AVISO:  La consulta se inserto correctamente.')</script>");
+>>>>>>> a80d6fd267ddea15c345aded1e5b7858eab16b8b
                     Response.Redirect("P_Registro.aspx");
                 }
             }
