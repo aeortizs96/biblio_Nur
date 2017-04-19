@@ -1,11 +1,11 @@
 USE [BiblioNur]
-
--- =============================================
--- Author:		<Andrea Ortiz>
--- Create date: <10/04/2017>
--- Description:	<Inserta Usuarios>
--- =============================================
-Create proc [dbo].[usp-Seguridad-insRegistro]
+GO
+/****** Object:  StoredProcedure [dbo].[insPruebas]    Script Date: 08/30/2016 20:58:32 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+Alter proc [dbo].[insRegistro]
 	@correo varchar(80),
 	@contrasena varchar(100),
 	@nombreCompleto varchar (100),
@@ -16,18 +16,8 @@ begin
    values(@correo,@contrasena,@nombreCompleto,@nombreUsuario)
 end
 
--- =============================================
--- Author:		<Marcelo Castaño Reyes>
--- Create date: <15/04/2017>
--- Description:	<Valida el login de usuario>
--- =============================================
 
-create procedure [dbo].[usp-Seguridad-validarLogin] 
-@nombreUsuario varchar(30),@contrasena varchar(20), @usuarioId int output
-as
-select @usuarioId= usuarioId from tbl_Usuario where contrasena= @contrasena and nombreUsuario=@nombreUsuario;
-return
+exec insRegistro 'pepito123@gmail.com','pepito','Pepito Perez','482121';
+exec insRegistro 'aamador@gmail.com','ama','Amador Arlindo','512434';
 
---declare @usuarioId int 
---exec [dbo].[usp-Seguridad-validarLogin] '482121','pepito',@usuarioId output;
---select @usuarioId as Usuario, nombreCompleto from tbl_Usuario where usuarioId=@usuarioId ;
+

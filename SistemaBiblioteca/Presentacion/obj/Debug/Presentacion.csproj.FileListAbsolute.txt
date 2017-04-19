@@ -22,27 +22,39 @@ D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca
 D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
 D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
 D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Entidades.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Negocios.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\bin\Datos.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Entidades.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Negocios.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\bin\Datos.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Entidades.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Negocios.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Datos.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\bin\Datos.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\15-04-17 3.11am\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Negocios.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Datos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Datos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Entidades.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Negocios.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Datos.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\bin\Datos.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb

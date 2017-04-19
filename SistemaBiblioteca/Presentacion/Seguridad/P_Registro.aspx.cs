@@ -19,6 +19,7 @@ namespace Presentacion.Seguridad
         public E_Usuario objEntUsuario = new E_Usuario();
         public N_Registro objNegRegistro = new N_Registro();
 
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -44,7 +45,7 @@ namespace Presentacion.Seguridad
         {
             int nGrabados = -1;
             TextBoxAObjeto();
-            nGrabados = objNegRegistro.abmRegistro(objEntUsuario);
+            nGrabados = objNegRegistro.abcRegistro(objEntUsuario);
             VaciaTextBox();
             lbl_mensaje.Text = "SE INSERTARON CORRECTAMENTE LOS DATOS";
             if (nGrabados != -1)
@@ -71,5 +72,3 @@ namespace Presentacion.Seguridad
 
     }
 }
-
-
