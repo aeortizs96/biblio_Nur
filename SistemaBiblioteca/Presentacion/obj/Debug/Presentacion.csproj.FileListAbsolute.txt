@@ -46,3 +46,15 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Subi
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Presentacion.dll.config
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Presentacion.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Presentacion.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Negocios.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Datos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Negocios.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\bin\Datos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Presentacion\obj\Debug\Presentacion.pdb

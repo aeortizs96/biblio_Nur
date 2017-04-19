@@ -17,3 +17,8 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Subi
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Entidades\bin\Debug\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb

@@ -5,7 +5,7 @@ USE [BiblioNur]
 -- Create date: <10/04/2017>
 -- Description:	<Inserta Usuarios>
 -- =============================================
-Create proc [dbo].[usp-Seguridad-insRegistro]
+Create proc usp_Seguridad_insRegistro
 	@correo varchar(80),
 	@contrasena varchar(100),
 	@nombreCompleto varchar (100),

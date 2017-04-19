@@ -26,3 +26,10 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Subi
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
