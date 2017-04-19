@@ -1,6 +1,6 @@
 USE [BiblioNur]
 
-create procedure [dbo].[insRegistro]
+create procedure [dbo].[usp-Seguridad-insRegistro]
 	@correo varchar(80),
 	@contrasena varchar(100),
 	@nombreCompleto varchar (100),
@@ -11,13 +11,8 @@ begin
    values(@correo,@contrasena,@nombreCompleto,@nombreUsuario)
 end
 
-create procedure [dbo].[usp-Seguridad-validarLogin] 
+ALTER procedure [dbo].[usp-Seguridad-validarLogin] 
 @nombreUsuario varchar(30),@contrasena varchar(20), @usuarioId int output
 as
 select @usuarioId= usuarioId from tbl_Usuario where contrasena= @contrasena and nombreUsuario=@nombreUsuario;
 return
-
-exec insRegistro 'pepito123@gmail.com','pepito','Pepito Perez','482121';
-exec insRegistro 'aamador@gmail.com','ama','Amador Arlindo','512434';
-
-
