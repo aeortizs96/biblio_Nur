@@ -18,7 +18,7 @@ namespace Datos
 
         public D_ConexionBD()
         {
-            Conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["SQLServer"].ConnectionString);
+            Conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["default"].ConnectionString);
         }
 
         public void AbrirConexion()
@@ -54,3 +54,4 @@ namespace Datos
 //ctor = constructor 
 //c + k + c = comentar
 //c + k + u = descomentar 
+// ctrol +r + e

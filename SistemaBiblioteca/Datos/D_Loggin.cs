@@ -19,7 +19,7 @@ namespace Datos
         public int abmLoggin(E_Usuario objE_Usuario)
         {
             int Resultado = 0;
-            SqlCommand cmd = new SqlCommand("usp-Seguridad-validarLogin", Conexion);
+            SqlCommand cmd = new SqlCommand("usp_Seguridad_validarLogin", Conexion);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@contrasena", objE_Usuario.Contrasena);

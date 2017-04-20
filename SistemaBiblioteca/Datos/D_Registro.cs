@@ -32,6 +32,8 @@ namespace Datos
             cmd.Parameters.AddWithValue("@contrasena", objE_Usuario.Contrasena);
             cmd.Parameters.AddWithValue("@nombreCompleto", objE_Usuario.NombreCompleto);
             cmd.Parameters.AddWithValue("@nombreUsuario", objE_Usuario.NombreUsuario);
+            cmd.Parameters.AddWithValue("@sexo", objE_Usuario.Sexo);
+            cmd.Parameters.AddWithValue("@tipo", objE_Usuario.Tipo);
             try
             {
                 AbrirConexion();

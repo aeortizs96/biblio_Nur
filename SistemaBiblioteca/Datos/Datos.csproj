@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43DF88DA-4EBA-49BD-A2C2-30B579A73ADD}</ProjectGuid>
+    <ProjectGuid>{75171E0C-C73E-46EF-8F30-8E0D20BD9B09}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Datos</RootNamespace>
@@ -35,7 +35,6 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
@@ -47,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{57bfe212-1cd7-4a57-8283-c55264161793}</Project>
+      <Project>{7251483f-aaca-46ce-8d6a-20f40931d0e9}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
