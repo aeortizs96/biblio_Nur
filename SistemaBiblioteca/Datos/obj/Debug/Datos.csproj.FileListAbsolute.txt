@@ -1,52 +1,14 @@
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Datos.dll
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Datos.pdb
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Entidades.dll
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\bin\Debug\Entidades.pdb
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\obj\Debug\Datos.dll
-C:\Users\ANDREA_ORTIZ\Documents\Visual Studio 2013\Projects\Presentacion\Datos\obj\Debug\Datos.pdb
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
-<<<<<<< HEAD
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Directo\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\bin\Debug\Datos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\bin\Debug\Datos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\bin\Debug\Entidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\bin\Debug\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\obj\Debug\Datos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\Sistema2\Datos\obj\Debug\Datos.pdb
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Bajada\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
-=======
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
-D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\backup\b2.15-04-17\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
-D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Backup\b3.15-04-17\Nueva\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
->>>>>>> a80d6fd267ddea15c345aded1e5b7858eab16b8b
