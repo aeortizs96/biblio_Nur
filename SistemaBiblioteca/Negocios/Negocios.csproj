@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4E7469C-89C5-416E-BBDC-4051FAE213CB}</ProjectGuid>
+    <ProjectGuid>{C13ADEDC-7B4A-4CD9-A57C-F847C44436A9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Negocios</RootNamespace>
@@ -45,11 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Datos\Datos.csproj">
-      <Project>{43df88da-4eba-49bd-a2c2-30b579a73add}</Project>
+      <Project>{75171e0c-c73e-46ef-8f30-8e0d20bd9b09}</Project>
       <Name>Datos</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{57bfe212-1cd7-4a57-8283-c55264161793}</Project>
+      <Project>{7251483f-aaca-46ce-8d6a-20f40931d0e9}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
