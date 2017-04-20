@@ -19,6 +19,12 @@ namespace Entidades
 
         private string _nombreUsuario;
 
+        private string _sexo;
+
+        private string _tipo;
+
+
+
         #endregion
 
         #region Constructor
@@ -29,6 +35,8 @@ namespace Entidades
             _contrasena = string.Empty;
             _nombreCompleto = string.Empty;
             _nombreUsuario = string.Empty;
+            _sexo = string.Empty;
+            _tipo = string.Empty;
         }
         #endregion
 
@@ -65,6 +73,17 @@ namespace Entidades
         {
             get { return _nombreUsuario; }
             set { _nombreUsuario = value; }
+        }
+
+        public string Sexo
+        {
+            get { return _sexo; }
+            set { _sexo = value; }
+        }
+        public string Tipo
+        {
+            get { return _tipo; }
+            set { _tipo = value; }
         }
 
         #endregion
