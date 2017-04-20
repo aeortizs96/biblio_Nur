@@ -1,27 +1,34 @@
 USE [BiblioNur]
 
-<<<<<<< HEAD
+
 -- =============================================
--- Author:		<Andrea Ortiz>
+-- Author:		<Marcelo Castaño>
 -- Create date: <10/04/2017>
 -- Description:	<Inserta Usuarios>
 -- =============================================
-Create proc usp_Seguridad_insRegistro
-=======
-create procedure [dbo].[usp-Seguridad-insRegistro]
->>>>>>> a80d6fd267ddea15c345aded1e5b7858eab16b8b
+alter proc usp_Seguridad_insRegistro
 	@correo varchar(80),
 	@contrasena varchar(100),
 	@nombreCompleto varchar (100),
-	@nombreUsuario varchar(8)
+	@nombreUsuario varchar(20),
+	@sexo varchar(12),
+	@tipo varchar(15)
+	
 as
 begin
-  INSERT INTO tbl_Usuario (correo, contrasena, nombreCompleto, nombreUsuario ) 
-   values(@correo,@contrasena,@nombreCompleto,@nombreUsuario)
+  INSERT INTO tbl_Usuario (correo, contrasena, nombreCompleto, nombreUsuario, sexo, tipo ) 
+   values(@correo,@contrasena,@nombreCompleto,@nombreUsuario,@sexo,@tipo )
 end
 
-ALTER procedure [dbo].[usp-Seguridad-validarLogin] 
-@nombreUsuario varchar(30),@contrasena varchar(20), @usuarioId int output
+-- =============================================
+-- Author:		<Marcelo Castaño>
+-- Create date: <15/04/2017>
+-- Description:	<Inserta Usuarios>
+-- =============================================
+
+
+Create procedure usp_Seguridad_validarLogin  
+@nombreUsuario varchar(20),@contrasena varchar(100), @usuarioId int output
 as
 select @usuarioId= usuarioId from tbl_Usuario where contrasena= @contrasena and nombreUsuario=@nombreUsuario;
 return
