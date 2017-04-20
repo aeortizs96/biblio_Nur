@@ -7,7 +7,9 @@ usuarioId int IDENTITY(1,1) PRIMARY KEY NOT NULL,
 correo varchar(80) not null,
 contrasena varchar(100) not null,
 nombreCompleto varchar (100) not null,
-nombreUsuario varchar(8)not null
+nombreUsuario varchar(8)not null,
+sexo varchar(12)not null,
+tipo varchar(15)not null
 );
 
 Create table tbl_Rol(
