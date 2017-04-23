@@ -1,25 +1,36 @@
-﻿
-using Entidades;
+﻿using Entidades;
 using Negocios;
 using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Web;
+using System.Web.Security;
+using System.Web.Services;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class P_Registro : System.Web.UI.Page
+public partial class Registro : System.Web.UI.Page
 {
     public E_Usuario objEntUsuario = new E_Usuario();
     public N_Registro objNegRegistro = new N_Registro();
-
-
     protected void Page_Load(object sender, EventArgs e)
     {
+        
+    }
 
+    protected void btncerrar_Click(object sender, EventArgs e)
+    {
+        //se borra la cookie de autenticacion
+        FormsAuthentication.SignOut();
+
+        //se redirecciona al usuario a la pagina de login
+        Response.Redirect(Request.UrlReferrer.ToString());
+    }
+    protected string nombreUsuario(object sender, EventArgs e)
+    {
+        return User.Identity.Name;
     }
 
     private void TextBoxAObjeto()
@@ -28,9 +39,8 @@ public partial class P_Registro : System.Web.UI.Page
         objEntUsuario.Contrasena = getSha1(txt_Contrasena.Text);
         objEntUsuario.NombreCompleto = txt_NombreCompleto.Text;
         objEntUsuario.NombreUsuario = txt_NombreUsuario.Text;
-        objEntUsuario.Sexo = ddl_Sexo.Text;
-        objEntUsuario.Tipo = ddl_Tipo.Text;
-
+        objEntUsuario.Sexo = dd_Sexo.Text;
+        objEntUsuario.Tipo = dd_Tipo.Text;
     }
 
     private void VaciaTextBox()
@@ -39,8 +49,8 @@ public partial class P_Registro : System.Web.UI.Page
         txt_NombreCompleto.Text = string.Empty;
         txt_NombreUsuario.Text = string.Empty;
         txt_Contrasena.Text = string.Empty;
-
-
+        dd_Sexo.ClearSelection();
+        dd_Tipo.ClearSelection();
     }
 
     protected void btn_guardar_Click(object sender, EventArgs e)
@@ -49,7 +59,7 @@ public partial class P_Registro : System.Web.UI.Page
         TextBoxAObjeto();
         nGrabados = objNegRegistro.abcRegistro(objEntUsuario);
         VaciaTextBox();
-        lbl_mensaje.Text = "SE INSERTARON CORRECTAMENTE LOS DATOS";
+        //lbl_mensaje.Text = "SE INSERTARON CORRECTAMENTE LOS DATOS";
         if (nGrabados != -1)
 
             Response.Write("<script>window.alert('AVISO: La consulta Se inserto correctamente.')</script>");
@@ -57,7 +67,6 @@ public partial class P_Registro : System.Web.UI.Page
         else
             Response.Write("<script>window.alert('AVISO:  La consulta no se inserto correctamente.')</script>");
     }
-
     public string getSha1(string texto)
     {
         SHA1CryptoServiceProvider sh = new SHA1CryptoServiceProvider();
@@ -70,6 +79,5 @@ public partial class P_Registro : System.Web.UI.Page
         }
         return sb.ToString();
     }
-
 
 }

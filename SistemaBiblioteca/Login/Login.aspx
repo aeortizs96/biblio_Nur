@@ -23,8 +23,6 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                <li><a href="Login.aspx">Login</a></li>
-                <li><a href="P_Registro.aspx">Registrarse</a></li>
                 </ul>
             </div>
         </div>
@@ -42,7 +40,7 @@
             <asp:Login ID="Login1" runat="server" BackColor="White" BorderColor="White"
                 BorderStyle="Solid" BorderWidth="1px" Font-Names="Verdana" Font-Size="0.8em"
                 OnAuthenticate="Login1_Authenticate" BorderPadding="4" ForeColor="#333333"
-                Width="267px" >
+                Width="267px">
                 <LayoutTemplate>
 
                     <div class="form-group">
@@ -60,13 +58,20 @@
                     </div>
 
                     <div class="form-group">
-                        <%--<asp:Label ID="lblmensaje" CssClass="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-2 col-sm-offset-2 col-md-offset-2 col-lg-offset-2" runat="server"  EnableViewState="False" ></asp:Label>--%>
-                         <asp:Literal ID="FailureText" runat="server" EnableViewState="False"></asp:Literal>
+                        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-md-offset-4">
+                            <asp:CheckBox ID="ChkRecordar" CssClass="checkbox" runat="server" Text="Recordar la próxima vez" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-md-offset-4">
+                            <asp:Literal ID="FailureText" runat="server" EnableViewState="False"></asp:Literal>
+                        </div>
                     </div>
 
                     <div class="form-group">
                         <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 col-xs-offset-4 col-sm-offset-4 col-md-offset-4 col-lg-offset-4">
-                            <asp:Button ID="LoginButton" CssClass="btn btn-primary" runat="server" Text="Inicio de sesion" CommandName="Login" ValidationGroup="LoginUserValidationGroup" OnClick="LoginButton_Click" />
+                            <asp:Button ID="LoginButton" CssClass="btn btn-primary" runat="server" Text="Iniciar sesión" CommandName="Login" ValidationGroup="LoginUserValidationGroup" OnClick="LoginButton_Click" />
 
                         </div>
                     </div>
@@ -80,11 +85,6 @@
                     Font-Size="0.9em" />
 
             </asp:Login>
-          
-            <div class="form-group">
-                <asp:CheckBox Text="   Recordármelo la próxima vez." ID="chkRememberMe" runat="server"  />
-            </div>
-            <br />
         </div>
     </form>
 </body>

@@ -12,3 +12,10 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\Subi
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\SubidaModificarCambiar\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\bin\Debug\Datos.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\bin\Debug\Datos.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\bin\Debug\Entidades.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\bin\Debug\Entidades.pdb
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\obj\Debug\Datos.dll
+D:\Bruno\NUR\Semestre I-2017\Ingeniería de Software III\Cambio\SistemaBiblioteca\Datos\obj\Debug\Datos.pdb

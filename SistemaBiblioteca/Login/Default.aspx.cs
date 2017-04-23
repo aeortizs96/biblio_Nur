@@ -35,6 +35,6 @@ public partial class _Default : System.Web.UI.Page
 
     protected void btn_registro_Click(object sender, EventArgs e)
     {
-        Response.Redirect("P_Registro.aspx");
+        Response.Redirect("Registro.aspx");
     }
 }

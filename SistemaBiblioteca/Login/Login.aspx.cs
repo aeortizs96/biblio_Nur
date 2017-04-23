@@ -39,7 +39,8 @@ public partial class Login : System.Web.UI.Page
 
     protected void LoginButton_Click(object sender, EventArgs e)
     {
-        if (chkRememberMe.Checked)
+        CheckBox recordar = (CheckBox)this.Login1.FindControl("ChkRecordar");
+        if (recordar.Checked)
         {
             Response.Cookies["UserName"].Expires = DateTime.Now.AddDays(30);
             Response.Cookies["Password"].Expires = DateTime.Now.AddDays(30);
