@@ -66,7 +66,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="P_ListaUsuarios.aspx">
                             <i class="ti-view-list-alt"></i>
                             <p>Lista de usuarios</p>
                         </a>
