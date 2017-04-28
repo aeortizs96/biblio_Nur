@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
+using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
@@ -172,5 +173,13 @@ public partial class P_ListaUsuarios : System.Web.UI.Page
     protected void btn_editar_Click(object sender, EventArgs e)
     {
         pnlAltas.Visible = true;
+    }
+    protected void btncerrar_Click(object sender, EventArgs e)
+    {
+        //se borra la cookie de autenticacion
+        FormsAuthentication.SignOut();
+
+        //se redirecciona al usuario a la pagina de login
+        Response.Redirect(Request.UrlReferrer.ToString());
     }
 }

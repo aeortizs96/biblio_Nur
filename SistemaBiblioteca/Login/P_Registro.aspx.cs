@@ -47,7 +47,7 @@ public partial class P_Registro : System.Web.UI.Page
     {
         int nGrabados = -1;
         TextBoxAObjeto();
-        nGrabados = objNegRegistro.abcRegistro(objEntUsuario);
+        nGrabados = objNegRegistro.abmRegistro(objEntUsuario);
         VaciaTextBox();
         lbl_mensaje.Text = "SE INSERTARON CORRECTAMENTE LOS DATOS";
         if (nGrabados != -1)
