@@ -1,0 +1,89 @@
+﻿body {
+    font-family: sans-serif;
+    background-color: #121314;
+}
+
+.whiteContainer {
+    background-color: white;
+    color: black;
+}
+
+.blackContainer {
+    background-color: #121314;
+    color: white;
+}
+
+.darkGrayContainer {
+    background-color: #252627;
+    color: white;
+}
+
+.grayContainer {
+    background-color: #777777;
+    color: white;
+}
+
+.darkGreenContainer {
+    background-color: #164E2B;
+    color: white;
+}
+
+.greenContainer {
+    background-color: #1DB954;
+    color: white;
+}
+
+.whiteText {
+    color: white;
+}
+
+.blackText {
+    color: #121314;
+}
+
+.darkGrayText {
+    color: #252627;
+}
+
+.grayText {
+    color: #777777;
+}
+
+.darkGreenText {
+    color: #164E2B;
+}
+
+.greenText {
+    color: #1DB954;
+}
+
+.divSpace {
+    margin: 0px;
+    padding: 20px;
+}
+
+    .divSpace div {
+        margin: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+#IndiceAdministracion div a {
+    width: 100%;
+    text-align: left;
+    border-radius: 0px;
+}
+
+    #IndiceAdministracion div a:hover {
+        background-color: #164E2B;
+        color: white;
+    }
+
+#IndiceAdministracion div {
+    /*padding: 0px;*/
+    /*border-top: 1px solid #164E2B;*/
+}
+
+    #IndiceAdministracion div:first-child {
+        border-top: none;
+    }
