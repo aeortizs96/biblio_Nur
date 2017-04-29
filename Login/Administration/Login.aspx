@@ -8,9 +8,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Login</title>
-    <link href="../css/bootstrap.css" rel="stylesheet" />
-    <link href="../css/bootstrap.min.css" rel="stylesheet" />
-    <link href="../css/estilos.css" rel="stylesheet" />
+    <link href="ABMS/css/bootstrap.css" rel="stylesheet" />
+    <link href="ABMS/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="ABMS/css/estilos.css" rel="stylesheet" />
 
 
 </head>
@@ -19,7 +19,7 @@
     <nav class="navbar navbar-default col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">Universidad NUR</a>
+                <a class="navbar-brand" href="#">Biblioteca Nur</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
@@ -32,7 +32,7 @@
         <div>
             <div class="form-group">
                 <div class="col-xs-12 col-sm-6 col-md-2 col-lg-4 col-xs-offset-2 col-sm-offset-2 col-md-offset-2 col-lg-offset-2">
-                    <img class="img-login-nur" src="css/images/ISOLOGOTIPO-NUR-CMYK-ISO-9001-Convertido.jpg" />
+                    <img class="img-login-nur" src="ABMS/css/images/ISOLOGOTIPO-NUR-CMYK-ISO-9001-Convertido.jpg" />
                 </div>
             </div>
 
