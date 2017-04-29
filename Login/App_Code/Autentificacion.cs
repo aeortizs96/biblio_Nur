@@ -18,11 +18,11 @@ public static class Autentificacion
         esteContrasena = password;
         //consulta a la base de datos
         string sql = @"SELECT COUNT(*)
-                              FROM tbl_Usuario
+                              FROM tbl_SEG_Usuario
                               WHERE nombreUsuario = @user AND contrasena = @pass";
      
         //cadena conexion
-        using (SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["default"].ToString()))
+        using (SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["SisVentasDBConnectionString"].ToString()))
         {
             conn.Open();//abrimos conexion
 
