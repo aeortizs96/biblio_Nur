@@ -1,0 +1,21 @@
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\TALLER\PROYECTO\ProyectoAndreaSV\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANDREA_ORTIZ\Desktop\b7.1-26-04-2017\b\ProyectoAndreaSV\CapaDatos\obj\Debug\CapaDatos.pdb
