@@ -18,7 +18,7 @@ public static class Autentificacion
         esteContrasena = password;
         //consulta a la base de datos
         string sql = @"SELECT COUNT(*)
-                              FROM tbl_Usuarios
+                              FROM tbl_Usuario
                               WHERE nombreUsuario = @user AND contrasena = @pass";
      
         //cadena conexion

@@ -31,44 +31,16 @@
         <form id="form1" class="form-horizontal img-background" runat="server">
             <fieldset>
                 <legend class="form-group">Formulario de registro</legend>
-
-
                 <div class="form-group">
-                    <asp:Label ID="Label10" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Carnet de Identidad :"></asp:Label>
+                    <asp:Label ID="Label3" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Nombre Completo:"></asp:Label>
                     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <asp:TextBox ID="txt_Ci" class="form-control" runat="server" placeholder="Carnet de Identidad"></asp:TextBox>
-                    </div>
-                </div>
-
-
-                <div class="form-group">
-                    <asp:Label ID="Label3" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Nombre :"></asp:Label>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <asp:TextBox ID="txt_Nombres" class="form-control" runat="server" placeholder="Nombre"></asp:TextBox>
-                    </div>
-                </div>
-                 <div class="form-group">
-                    <asp:Label ID="Label7" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Apellidos:"></asp:Label>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <asp:TextBox ID="txt_Apellidos" class="form-control" runat="server" placeholder="Apellidos"></asp:TextBox>
+                        <asp:TextBox ID="txt_NombreCompleto" class="form-control" runat="server" placeholder="Nombre completo"></asp:TextBox>
                     </div>
                 </div>
                 <div class="form-group">
                     <asp:Label ID="Label1" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Correo:"></asp:Label>
                     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <asp:TextBox ID="txt_Correo" class="form-control" runat="server" placeholder="@gmail.com"></asp:TextBox>
-                    </div>
-                </div>
-                 <div class="form-group">
-                    <asp:Label ID="Label8" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Telefono:"></asp:Label>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <asp:TextBox ID="txt_Telefono" class="form-control" runat="server" placeholder="Telefono"></asp:TextBox>
-                    </div>
-                </div>
-                 <div class="form-group">
-                    <asp:Label ID="Label9" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1" runat="server" Text="Direccion:"></asp:Label>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <asp:TextBox ID="txt_Direccion" class="form-control" runat="server" placeholder="Direccion"></asp:TextBox>
+                        <asp:TextBox ID="txt_Correo" class="form-control" runat="server" placeholder="Correo"></asp:TextBox>
                     </div>
                 </div>
                 <div class="form-group">

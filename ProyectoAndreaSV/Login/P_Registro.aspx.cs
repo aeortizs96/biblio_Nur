@@ -1,7 +1,6 @@
 ﻿
-
-using CapaEntidades;
-using CapaNegocios;
+using Entidades;
+using Negocios;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -25,13 +24,9 @@ public partial class P_Registro : System.Web.UI.Page
 
     private void TextBoxAObjeto()
     {
-        objEntUsuario.Email = txt_Correo.Text;
+        objEntUsuario.Correo = txt_Correo.Text;
         objEntUsuario.Contrasena = getSha1(txt_Contrasena.Text);
-        objEntUsuario.Nombres = txt_Nombres.Text;
-        objEntUsuario.Apellidos = txt_Apellidos.Text;
-        objEntUsuario.CI = txt_Ci.Text;
-        objEntUsuario.Direccion = txt_Direccion.Text;
-        objEntUsuario.Telefono = txt_Telefono.Text;
+        objEntUsuario.NombreCompleto = txt_NombreCompleto.Text;
         objEntUsuario.NombreUsuario = txt_NombreUsuario.Text;
         objEntUsuario.Sexo = ddl_Sexo.Text;
         objEntUsuario.Tipo = ddl_Tipo.Text;
@@ -41,22 +36,10 @@ public partial class P_Registro : System.Web.UI.Page
     private void VaciaTextBox()
     {
         txt_Correo.Text = string.Empty;
-        txt_Nombres.Text = string.Empty;
-        txt_Apellidos.Text = string.Empty;
+        txt_NombreCompleto.Text = string.Empty;
         txt_NombreUsuario.Text = string.Empty;
         txt_Contrasena.Text = string.Empty;
 
-
-        txt_Correo.Text = string.Empty;
-        txt_Contrasena.Text = string.Empty;
-        txt_Nombres.Text = string.Empty;
-        txt_Apellidos.Text = string.Empty;
-        txt_Ci.Text = string.Empty;
-        txt_Direccion.Text = string.Empty;
-        txt_Telefono.Text = string.Empty;
-        txt_NombreUsuario.Text = string.Empty;
-        ddl_Sexo.Text = "Elija un genero";
-        ddl_Tipo.Text = "Elija un tipo de usuario";
 
     }
 
@@ -64,7 +47,7 @@ public partial class P_Registro : System.Web.UI.Page
     {
         int nGrabados = -1;
         TextBoxAObjeto();
-        nGrabados = objNegRegistro.abcRegistro(objEntUsuario);
+        nGrabados = objNegRegistro.abmRegistro(objEntUsuario);
         VaciaTextBox();
         lbl_mensaje.Text = "SE INSERTARON CORRECTAMENTE LOS DATOS";
         if (nGrabados != -1)
