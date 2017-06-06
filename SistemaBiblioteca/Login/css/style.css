@@ -862,3 +862,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+,boton_buscar{
+    margin-top:30px;
+    margin-bottom:30px;
+}

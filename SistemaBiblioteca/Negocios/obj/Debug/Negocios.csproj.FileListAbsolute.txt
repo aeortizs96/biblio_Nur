@@ -25,3 +25,12 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sp
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sprin\biblio_Nur-cc0b4283532880fbe587a4a9370f00a18fccf1d3\SistemaBiblioteca\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sprin\biblio_Nur-cc0b4283532880fbe587a4a9370f00a18fccf1d3\SistemaBiblioteca\Negocios\obj\Debug\Negocios.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sprin\biblio_Nur-cc0b4283532880fbe587a4a9370f00a18fccf1d3\SistemaBiblioteca\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\bin\Debug\Negocios.dll
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\bin\Debug\Datos.dll
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\bin\Debug\Entidades.dll
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\bin\Debug\Datos.pdb
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\obj\Debug\Negocios.dll
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Negocios\obj\Debug\Negocios.pdb

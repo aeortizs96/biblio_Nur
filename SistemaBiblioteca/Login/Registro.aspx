@@ -71,6 +71,12 @@
                             <p>Lista de usuarios</p>
                         </a>
                     </li>
+                    <li class="#">
+                        <a href="prueba_reserva.aspx">
+                            <i class="ti-archive"></i>
+                            <p>Reservas</p>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>

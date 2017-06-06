@@ -138,6 +138,13 @@ public partial class prueba_reserva : System.Web.UI.Page
 
     #endregion
 
+    protected void btncerrar_Click(object sender, EventArgs e)
+    {
+        //se borra la cookie de autenticacion
+        FormsAuthentication.SignOut();
 
+        //se redirecciona al usuario a la pagina de login
+        Response.Redirect(Request.UrlReferrer.ToString());
+    }
 }
 

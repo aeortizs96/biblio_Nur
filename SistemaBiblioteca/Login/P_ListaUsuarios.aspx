@@ -74,6 +74,12 @@
                             <p>Lista de usuarios</p>
                         </a>
                     </li>
+                    <li class="#">
+                        <a href="prueba_reserva.aspx">
+                            <i class="ti-archive"></i>
+                            <p>Reservas</p>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -111,7 +117,7 @@
                         <div class="col-md-12">
 
                             <div>
-                                <div class="row">
+                                <div class="row" id="row_view">
                                     <div class="col-md-2 col-md-offset-1">
                                         <asp:DropDownList ID="DropDownList2" CssClass="form-control border-input" runat="server" AppendDataBoundItems="true">
                                             <asp:ListItem Value="correo">Correo</asp:ListItem>
@@ -119,17 +125,20 @@
                                             <asp:ListItem Value="tipo">Tipo</asp:ListItem>
                                         </asp:DropDownList>
                                     </div>
-                                    <div class="col-md-8">
+                                    <div class="col-md-5">
                                         <asp:TextBox ID="txt_busqueda" CssClass="form-control border-input" runat="server"></asp:TextBox>
                                     </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-2 col-md-offset-4 boton-registro">
-                                        <asp:Button ID="btn_busqueda" runat="server" Text="Buscar" CssClass="btn btn-info btn-fill btn-wd" OnClick="btn_busqueda_Click" />
+                                    <div class="col-md-2 col-md-offset-0">
+                                        <asp:Button ID="Button1" runat="server" Text="Buscar" CssClass="btn btn-info btn-fill btn-wd" OnClick="btn_busqueda_Click" />
                                     </div>
                                 </div>
+                                <!-- <div class="row">
+                                    <div class="col-md-2 col-md-offset-4">
+                                        <asp:Button ID="btn_busqueda" runat="server" Text="Buscar" CssClass="btn btn-info btn-fill btn-wd boton-registro" OnClick="btn_busqueda_Click" />
+                                    </div> 
+                                </div> -->
 
-                                <div class="row">
+                                <div class="row" >
                                     <div class="content table-responsive table-full-width">
                                         <asp:GridView ID="grvListadoUsuario" runat="server" CssClass="table table-striped" AutoGenerateColumns="False" DataKeyNames="usuarioId" HorizontalAlign="Center" Width="90%" OnSelectedIndexChanged="grvListadoUsuario_SelectedIndexChanged">
                                             <Columns>
