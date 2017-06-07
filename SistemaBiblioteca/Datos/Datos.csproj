@@ -42,6 +42,7 @@
     <Compile Include="D_ConexionBD.cs" />
     <Compile Include="D_Libro.cs" />
     <Compile Include="D_Loggin.cs" />
+    <Compile Include="D_Prestamos.cs" />
     <Compile Include="D_Registro.cs" />
     <Compile Include="D_Reserva.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

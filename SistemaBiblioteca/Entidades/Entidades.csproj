@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="E_Libro.cs" />
+    <Compile Include="E_Prestamos.cs" />
     <Compile Include="E_Reserva.cs" />
     <Compile Include="E_Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

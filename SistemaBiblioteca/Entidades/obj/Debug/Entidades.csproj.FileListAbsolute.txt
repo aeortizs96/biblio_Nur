@@ -12,3 +12,7 @@ D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sp
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sprin\biblio_Nur-cc0b4283532880fbe587a4a9370f00a18fccf1d3\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sprin\biblio_Nur-cc0b4283532880fbe587a4a9370f00a18fccf1d3\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb
 D:\Cosas\ANDREA TODO\UNIVERSIDAD NUR\7 SEMESTRE\SOFTWARE 3\PROYECTO GENERAL\1 sprin\biblio_Nur-cc0b4283532880fbe587a4a9370f00a18fccf1d3\SistemaBiblioteca\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Entidades\bin\Debug\Entidades.dll
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Entidades\obj\Debug\Entidades.dll
+C:\Users\Hp 340\Desktop\SOFTWARE 3 copia\SistemaBiblioteca\Entidades\obj\Debug\Entidades.pdb

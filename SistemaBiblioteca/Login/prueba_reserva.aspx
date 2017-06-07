@@ -96,7 +96,7 @@
         if (ns6 && bV < 5) window.onmousedown = nrc;
     </script>
 </head>
-<body style="height: 3000px">
+<body>
 
     <div class="wrapper">
         <div class="sidebar" data-background-color="black" data-active-color="danger">
@@ -135,6 +135,12 @@
                         <a href="#">
                             <i class="ti-archive"></i>
                             <p>Reservas</p>
+                        </a>
+                    </li>
+                    <li class="#">
+                        <a href="Prestamo_Completo.aspx">
+                            <i class="ti-pencil-alt"></i>
+                            <p>Prestamos</p>
                         </a>
                     </li>
                 </ul>

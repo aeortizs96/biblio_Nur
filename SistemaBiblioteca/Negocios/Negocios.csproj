@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="N_Libro.cs" />
     <Compile Include="N_Loggin.cs" />
+    <Compile Include="N_Prestamos.cs" />
     <Compile Include="N_Registro.cs" />
     <Compile Include="N_Reserva.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

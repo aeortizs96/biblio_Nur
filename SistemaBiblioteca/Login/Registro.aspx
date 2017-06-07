@@ -77,6 +77,12 @@
                             <p>Reservas</p>
                         </a>
                     </li>
+                    <li class="#">
+                        <a href="Prestamo_Completo.aspx">
+                            <i class="ti-pencil-alt"></i>
+                            <p>Prestamos</p>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
