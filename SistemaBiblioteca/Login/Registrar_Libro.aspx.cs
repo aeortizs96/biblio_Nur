@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
+using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
@@ -20,13 +21,22 @@ public partial class Registrar_Libro : System.Web.UI.Page
 
 
     //conexion necesaria para el filtro
-    public SqlConnection cn = new SqlConnection("Data Source=localhost;Initial Catalog=BiblioNur;Integrated Security=True");
+    //public SqlConnection cn = new SqlConnection("Data Source=HP\SQLEXPRESS;Initial Catalog=BiblioNur;Integrated Security=True");
 
     protected void Page_Load(object sender, EventArgs e)
     {
         libroLista();
         DesHabilitarBotonesLibros();
         DesHabilitarTexBoxLibro();
+    }
+
+    protected void btncerrar_Click(object sender, EventArgs e)
+    {
+        //se borra la cookie de autenticacion
+        FormsAuthentication.SignOut();
+
+        //se redirecciona al usuario a la pagina de login
+        Response.Redirect(Request.UrlReferrer.ToString());
     }
 
     #region Metodos Adicionales Producto
@@ -135,6 +145,8 @@ public partial class Registrar_Libro : System.Web.UI.Page
 
     protected void btn_NuevoLibro_Click(object sender, EventArgs e)
     {
+        
+        pnlAltasLibro.Visible = true;
         btn_BorrarLibro.Enabled = false;
         btn_ModificarLibro.Enabled = false;
         grvLibro.Enabled = false;
@@ -204,6 +216,7 @@ public partial class Registrar_Libro : System.Web.UI.Page
     {
         VaciaTextBoxProducto();
         DesHabilitarBotonesLibros();
+        pnlAltasLibro.Visible = false;
     }
     protected void grvLibro_SelectedIndexChanged(object sender, EventArgs e)
     {

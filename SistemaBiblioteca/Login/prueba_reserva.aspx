@@ -125,6 +125,12 @@
                             <p>Permisos</p>
                         </a>
                     </li>
+                    <li>
+                        <a href="Registrar_Libro.aspx">
+                            <i class="ti-plus"></i>
+                            <p>Registro de libros</p>
+                        </a>
+                    </li>
                     <li class="#">
                         <a href="P_ListaUsuarios.aspx">
                             <i class="ti-view-list-alt"></i>
@@ -207,7 +213,7 @@
                                             <Columns>
                                                 <asp:BoundField DataField="mfn" HeaderText="MFN" />
                                                 <asp:BoundField DataField="titulo" HeaderText="Título" />
-                                                <asp:BoundField DataField="autor" HeaderText="Autor" />
+                                                <asp:BoundField DataField="autor_nombre" HeaderText="Autor" />
                                                 <asp:BoundField DataField="editorial" HeaderText="Editorial" />
                                                 <asp:BoundField DataField="estados" HeaderText="Estado" />
                                                 <%--     <asp:CommandField ShowSelectButton="True" SelectText="Reservar" />--%>

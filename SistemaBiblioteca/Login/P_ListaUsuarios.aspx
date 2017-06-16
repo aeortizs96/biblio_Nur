@@ -68,6 +68,12 @@
                             <p>Permisos</p>
                         </a>
                     </li>
+                    <li>
+                        <a href="Registrar_Libro.aspx">
+                            <i class="ti-plus"></i>
+                            <p>Registro de libros</p>
+                        </a>
+                    </li>
                     <li class="active">
                         <a href="#">
                             <i class="ti-view-list-alt"></i>
@@ -143,7 +149,8 @@
                                         <asp:Button ID="btn_busqueda" runat="server" Text="Buscar" CssClass="btn btn-info btn-fill btn-wd boton-registro" OnClick="btn_busqueda_Click" />
                                     </div> 
                                 </div> -->
-
+                                <br />
+                                <br />
                                 <div class="row" >
                                     <div class="content table-responsive table-full-width">
                                         <asp:GridView ID="grvListadoUsuario" runat="server" CssClass="table table-striped" AutoGenerateColumns="False" DataKeyNames="usuarioId" HorizontalAlign="Center" Width="90%" OnSelectedIndexChanged="grvListadoUsuario_SelectedIndexChanged">
@@ -246,6 +253,6 @@
             </div>
         </div>
     </footer>
-    </div>
+    
 </body>
 </html>

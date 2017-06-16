@@ -125,6 +125,12 @@
                             <p>Permisos</p>
                         </a>
                     </li>
+                    <li>
+                        <a href="Registrar_Libro.aspx">
+                            <i class="ti-plus"></i>
+                            <p>Registro de libros</p>
+                        </a>
+                    </li>
                     <li class="#">
                         <a href="P_ListaUsuarios.aspx">
                             <i class="ti-view-list-alt"></i>
