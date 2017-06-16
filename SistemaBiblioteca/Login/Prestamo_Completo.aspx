@@ -259,14 +259,14 @@
                         </div>
                         <div>
 
-                            <asp:GridView ID="grvVenta" runat="server" AutoGenerateColumns="False" Width="851px" DataSourceID="SqlDataSource2">
+                            <asp:GridView ID="grvVenta" runat="server" AutoGenerateColumns="False" Width="851px" DataSourceID="SqlDataSource2" Visible="true">
                                 <Columns>
-                                    <asp:BoundField DataField="prestamoId" HeaderText="Nro. Prestamo" InsertVisible="False" ReadOnly="True" SortExpression="prestamoId" />
-                                    <asp:BoundField DataField="mfn" HeaderText="MFN Libro" SortExpression="mfn" />
-                                    <asp:BoundField DataField="titulo" HeaderText="Titulo Libro" SortExpression="titulo" />
-                                    <asp:BoundField DataField="nombreCompleto" HeaderText="Nombre Usuario" SortExpression="nombreCompleto" />
-                                    <asp:BoundField DataField="fechaInicio" HeaderText="Fecha Inicio" SortExpression="fechaInicio" />
-                                    <asp:BoundField DataField="fechaFin" HeaderText="Fecha Devolucion" SortExpression="fechaFin" />
+                                    <asp:BoundField DataField="prestamoId" HeaderText="prestamoId" InsertVisible="False" ReadOnly="True" SortExpression="prestamoId" />
+                                    <asp:BoundField DataField="mfn" HeaderText="mfn" SortExpression="mfn" />
+                                    <asp:BoundField DataField="titulo" HeaderText="titulo" SortExpression="titulo" />
+                                    <asp:BoundField DataField="nombreCompleto" HeaderText="nombreCompleto" SortExpression="nombreCompleto" />
+                                    <asp:BoundField DataField="fechaInicio" HeaderText="fechaInicio" SortExpression="fechaInicio" />
+                                    <asp:BoundField DataField="fechaFin" HeaderText="fechaFin" SortExpression="fechaFin" />
                                 </Columns>
                             </asp:GridView>
                             <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:default %>" SelectCommand="SELECT     dbo.tbl_Prestamos.prestamoId,dbo.tbl_Libros.mfn, dbo.tbl_Libros.titulo, dbo.tbl_Usuario.nombreCompleto, dbo.tbl_Prestamos.fechaInicio, 

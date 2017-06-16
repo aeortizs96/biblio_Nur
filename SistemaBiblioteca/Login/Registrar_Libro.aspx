@@ -151,7 +151,7 @@
                                     <asp:Panel ID="pnlAltasLibro" Visible="false" runat="server">
                                         <div class="row">
                                             <div class="col-md-3 col-md-offset-4">
-                                                <label>MFN Libro:</label>
+                                                <label runat="server" id="lbMfn">MFN Libro:</label>
                                                 <asp:TextBox ID="txt_mfnLibro" runat="server" CssClass="form-control border-input" Enabled="False"></asp:TextBox>
                                             </div>
                                         </div>
@@ -163,7 +163,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-md-3 col-md-offset-4">
-                                                <label>Autor:</label>
+                                                <label runat="server" id="lbAutor">Autor:</label>
                                                 <asp:TextBox ID="txt_autor" CssClass="form-control border-input" runat="server"></asp:TextBox>
                                             </div>
                                         </div>

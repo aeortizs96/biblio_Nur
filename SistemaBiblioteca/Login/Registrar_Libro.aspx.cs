@@ -101,7 +101,7 @@ public partial class Registrar_Libro : System.Web.UI.Page
         objEntLibro.Autor = txt_autor.Text;
         objEntLibro.Estados = Convert.ToInt32(cb_Estados.SelectedValue.ToString());
 
-  
+
 
     }
     //metodo que pasa los parametros de la entidad  a los textbox
@@ -135,7 +135,7 @@ public partial class Registrar_Libro : System.Web.UI.Page
             grvLibro.DataSource = ds.Tables[0];
             grvLibro.DataBind();// esto es lo que hace que la base de dato se pase al datagriview
         }
-    } 
+    }
 
 
 
@@ -145,13 +145,18 @@ public partial class Registrar_Libro : System.Web.UI.Page
 
     protected void btn_NuevoLibro_Click(object sender, EventArgs e)
     {
-        
+
         pnlAltasLibro.Visible = true;
         btn_BorrarLibro.Enabled = false;
         btn_ModificarLibro.Enabled = false;
         grvLibro.Enabled = false;
         btnGrabarLibro.Enabled = true;
         btnCancelarLibro.Enabled = true;
+        txt_mfnLibro.Visible = true;
+        lbMfn.Visible = true;
+        txt_autor.Visible = true;
+        lbAutor.Visible = true;
+
         HabilitarTexBoxProducto();
         VaciaTextBoxProducto();
     }
@@ -220,12 +225,14 @@ public partial class Registrar_Libro : System.Web.UI.Page
     }
     protected void grvLibro_SelectedIndexChanged(object sender, EventArgs e)
     {
-        btnGrabarLibro.Enabled = true;
+        btnGrabarLibro.Enabled = false;
         btnCancelarLibro.Enabled = true;
         btn_ModificarLibro.Enabled = true;
         btn_BorrarLibro.Enabled = true;
-        txt_mfnLibro.Enabled = false;
-        txt_autor.Enabled = false;
+        txt_mfnLibro.Visible = false;
+        lbMfn.Visible = false;
+        txt_autor.Visible = false;
+        lbAutor.Visible = false;
 
         DataSet ds = new DataSet();
         objEntLibro.Mfn = grvLibro.DataKeys[grvLibro.SelectedIndex].Value.ToString();
@@ -238,6 +245,6 @@ public partial class Registrar_Libro : System.Web.UI.Page
             HabilitarTexBoxProducto();
         }
 
-       
+
     }
 }

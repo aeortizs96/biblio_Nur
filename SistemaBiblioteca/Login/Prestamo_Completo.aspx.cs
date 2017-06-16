@@ -25,6 +25,7 @@ public partial class Prestamo_Completo : System.Web.UI.Page
         txt_editorial.Enabled = false;
         txt_titulo.Enabled = false;
         txt_nombreuser.Enabled = false;
+        
         if (!IsPostback)
         {
 
@@ -42,8 +43,8 @@ public partial class Prestamo_Completo : System.Web.UI.Page
     //    ds = objNegLibro.listadoLibro();
     //    if (ds.Tables[0].Rows.Count > 0)
     //    {
-    //        grvListadoLibros.DataSource = ds.Tables[0];
-    //        grvListadoLibros.DataBind();// esto es lo que hace que la base de dato se pase al datagriview
+    //        grvVenta.DataSource = ds.Tables[0];
+    //        grvVenta.DataBind();// esto es lo que hace que la base de dato se pase al datagriview
     //    }
     //    else
     //        Response.Write("<script>window.alert('AVISO: No existen libros en el sistema.')</script>");
