@@ -185,6 +185,21 @@
                     <form id="form1" runat="server">
                         <asp:ScriptManager ID="ScriptManager1" runat="server">
                         </asp:ScriptManager>
+                        <br />
+                        <br />
+                        <div class="row">
+
+                            <asp:GridView ID="grvVenta" runat="server" AutoGenerateColumns="False" Width="90%" CssClass="table table-striped" DataSourceID="SqlDataSource2">
+                                <Columns>
+                                    <asp:BoundField DataField="libroMFN" HeaderText="MFN" SortExpression="libroMFN" />
+                                    <asp:BoundField DataField="titulo" HeaderText="Titulo" SortExpression="titulo" />
+                                    <asp:BoundField DataField="editorial" HeaderText="Editorial" SortExpression="editorial" />
+                                    <asp:BoundField DataField="fechaInicio" HeaderText="Fecha Inicio" SortExpression="fechaInicio" />
+                                    <asp:BoundField DataField="fechaFin" HeaderText="Fecha Devolucion" SortExpression="fechaFin" />
+                                </Columns>
+                            </asp:GridView>
+                            <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:default %>" SelectCommand="usp_BIBLIOTECA_GetPrestamos" SelectCommandType="StoredProcedure"></asp:SqlDataSource>
+                        </div>
 
                         <div class="col-md-12">
 
@@ -255,26 +270,6 @@
                                     <asp:Button ID="btnClose" runat="server" Text="Cancelar" CssClass="btn btn-info btn-fill btn-wd boton-registro" OnClick="btnClose_Click" />
                                 </div>
                             </div>
-
-                        </div>
-                        <div>
-
-                            <asp:GridView ID="grvVenta" runat="server" AutoGenerateColumns="False" Width="851px" DataSourceID="SqlDataSource2" Visible="true">
-                                <Columns>
-                                    <asp:BoundField DataField="prestamoId" HeaderText="prestamoId" InsertVisible="False" ReadOnly="True" SortExpression="prestamoId" />
-                                    <asp:BoundField DataField="mfn" HeaderText="mfn" SortExpression="mfn" />
-                                    <asp:BoundField DataField="titulo" HeaderText="titulo" SortExpression="titulo" />
-                                    <asp:BoundField DataField="nombreCompleto" HeaderText="nombreCompleto" SortExpression="nombreCompleto" />
-                                    <asp:BoundField DataField="fechaInicio" HeaderText="fechaInicio" SortExpression="fechaInicio" />
-                                    <asp:BoundField DataField="fechaFin" HeaderText="fechaFin" SortExpression="fechaFin" />
-                                </Columns>
-                            </asp:GridView>
-                            <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:default %>" SelectCommand="SELECT     dbo.tbl_Prestamos.prestamoId,dbo.tbl_Libros.mfn, dbo.tbl_Libros.titulo, dbo.tbl_Usuario.nombreCompleto, dbo.tbl_Prestamos.fechaInicio, 
-                      dbo.tbl_Prestamos.fechaFin
-FROM         dbo.tbl_Libros INNER JOIN
-                      dbo.tbl_Prestamos ON dbo.tbl_Libros.mfn = dbo.tbl_Prestamos.libroMFN INNER JOIN
-                      dbo.tbl_Usuario ON dbo.tbl_Prestamos.usuarioId = dbo.tbl_Usuario.usuarioId"></asp:SqlDataSource>
-
 
                         </div>
                     </form>
